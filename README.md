@@ -20,13 +20,13 @@
 
 ---
 
-## 👋 Sobre mim
+## Sobre mim
 
 Faço **Ciência da Computação** na **UDF** e sou formado no curso de **programação de jogos** do **Senac**, onde passei 3 anos desenvolvendo jogos na **Unity** e usando **C++**. No contraturno, estou cursando **Engenharia de Software** no Senac. Na faculdade, venho praticando algoritmos e lógica de programação em **C** e **Python**, sempre versionando e documentando meus projetos com **Git** e **GitHub**.
 
 Este perfil é o meu portfólio em construção: cada projeto fixado aqui mostra o que aprendi e como organizo o meu trabalho.
 
-## 🎯 O que estou buscando
+##  O que estou buscando
 
 | | |
 | --- | --- |
@@ -34,7 +34,7 @@ Este perfil é o meu portfólio em construção: cada projeto fixado aqui mostra
 | **Local** | Brasília, DF |
 | **Áreas de estudo** | Desenvolvimento de software, lógica e algoritmos, programação de jogos |
 
-## 💡 O que eu levo para o time
+## O que eu levo para o time
 
 - **Base em lógica e algoritmos:** ordenação (Bubble Sort e Quick Sort), laços de repetição e organização de dados, praticados em C e Python
 - **Programação de jogos:** 3 anos de curso no Senac, com Unity e C++
@@ -42,13 +42,13 @@ Este perfil é o meu portfólio em construção: cada projeto fixado aqui mostra
 - **Inglês:** 3 anos de curso (CILT), o que me ajuda a ler documentação técnica
 - **Rotina de estudo intensa:** Ciência da Computação na UDF e Engenharia de Software no Senac, em turnos diferentes
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,html,unity,git,github" alt="C, C++, C#, Python, HTML, Unity, Git e GitHub" />
 </p>
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 | Projeto | O que faz | Linguagem |
 | --- | --- | --- |
