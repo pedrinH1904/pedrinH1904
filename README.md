@@ -84,12 +84,9 @@ Este perfil é o meu portfólio em construção: cada projeto fixado aqui mostra
 
 ## Tecnologias
 
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,cs,python,html,unity,git,github&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c,cpp,cs,python,html,unity,git,github&theme=light">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,html,unity,git,github" alt="C, C++, C#, Python, HTML, Unity, Git e GitHub">
-  </picture>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,html,unity,git,github" alt="C, C++, C#, Python, HTML, Unity, Git e GitHub" />
 </p>
 
 ## Projetos em destaque
